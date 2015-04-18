@@ -39,4 +39,6 @@ class ofApp : public ofBaseApp{
 		ofSoundPlayer mySound;
 		ofRectangle textBox;
 		//float ballX, ballY, ballXDirection, ballYDirection;
+		Test TEST
+		
 };
